@@ -14,7 +14,7 @@ tape('JSON validity/Param reachability', function (t) {
   })
   
   t.test('should be able to read value from bootstrapNodes.json', function (st) {
-    st.equal(params.bootstrapNodes[0].port, "30303")
+    st.equal(params.bootstrapNodes[0].port, "10802")
     st.end()
   })
   
