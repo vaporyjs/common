@@ -1,24 +1,25 @@
 {
-  "name": "ethereum-common",
+  "name": "vapory-common",
+  "namespace": "vaporyjs",
   "version": "0.0.18",
-  "description": "Resources common to all Ethereum implementations",
+  "description": "Resources common to all vapory implementations",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethereumjs/common.git"
+    "url": "git+https://github.com/vaporyjs/common.git"
   },
   "keywords": [
-    "ethereum"
+    "vapory"
   ],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ethereumjs/common/issues"
+    "url": "https://github.com/vaporyjs/common/issues"
   },
-  "homepage": "https://github.com/ethereumjs/common",
+  "homepage": "https://github.com/vaporyjs/common",
   "maintainers": [
     {
       "name": "null_radix",
