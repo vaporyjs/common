@@ -1,2 +1,2 @@
 # common
-Resources common to all Ethereum implementations
+Resources common to all Vapory implementations
