@@ -1,7 +1,7 @@
 {
   "name": "vapory-common",
   "namespace": "vaporyjs",
-  "version": "0.0.17",
+  "version": "0.0.17-a",
   "description": "Resources common to all Ethereum implementations",
   "main": "index.js",
   "scripts": {
